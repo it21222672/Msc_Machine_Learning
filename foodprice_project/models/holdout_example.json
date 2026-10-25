@@ -1,0 +1,12 @@
+{
+  "commodity": "Tomatoes",
+  "market": "Colombo City",
+  "month": 9,
+  "price_now": 235.79,
+  "price_prev": 213.29,
+  "price_3m": 541.56,
+  "national_avg_now": 209.63,
+  "national_avg_prev": 192.45,
+  "actual_next_price": 243.66,
+  "actual_spike": 0
+}

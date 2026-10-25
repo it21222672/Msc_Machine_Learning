@@ -1,0 +1,7 @@
+# Render.com blueprint: one Docker web service that runs the dashboard and the API together.
+services:
+  - type: web
+    name: sri-lanka-food-price-early-warning
+    runtime: docker
+    plan: free
+    healthCheckPath: /_stcore/health

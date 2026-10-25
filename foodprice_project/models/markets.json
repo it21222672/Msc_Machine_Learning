@@ -1,0 +1,254 @@
+{
+ "Ampara": {
+  "province": "Eastern",
+  "district": "Ampara",
+  "latitude": 7.28,
+  "longitude": 81.67
+ },
+ "Anuradhapura": {
+  "province": "North Central",
+  "district": "Anuradhapura",
+  "latitude": 8.34,
+  "longitude": 80.33
+ },
+ "Badulla": {
+  "province": "Uva",
+  "district": "Badulla",
+  "latitude": 6.99,
+  "longitude": 81.04
+ },
+ "Bandarawela": {
+  "province": "Uva",
+  "district": "Badulla",
+  "latitude": 6.83,
+  "longitude": 80.99
+ },
+ "Batticaloa": {
+  "province": "Eastern",
+  "district": "Batticaloa",
+  "latitude": 7.72,
+  "longitude": 81.7
+ },
+ "Colombo City": {
+  "province": "Western",
+  "district": "Colombo",
+  "latitude": 6.93,
+  "longitude": 79.85
+ },
+ "Dammbagalla": {
+  "province": "Uva",
+  "district": "Moneragala",
+  "latitude": 6.98,
+  "longitude": 81.37
+ },
+ "Dehiattakandiya": {
+  "province": "Eastern",
+  "district": "Ampara",
+  "latitude": 7.66,
+  "longitude": 81.05
+ },
+ "Economic Centre - Peliyagoda": {
+  "province": "Western",
+  "district": "Gampaha",
+  "latitude": 6.97,
+  "longitude": 79.89
+ },
+ "Economic Centre-Dambulla": {
+  "province": "Central",
+  "district": "Matale",
+  "latitude": 7.87,
+  "longitude": 80.65
+ },
+ "Economic Centre-Pettah": {
+  "province": "Western",
+  "district": "Colombo",
+  "latitude": 6.93,
+  "longitude": 79.85
+ },
+ "Embilipitiya": {
+  "province": "Sabaragamuwa",
+  "district": "Ratnapura",
+  "latitude": 6.33,
+  "longitude": 80.85
+ },
+ "Fish market-Negombo": {
+  "province": "Western",
+  "district": "Gampaha",
+  "latitude": 7.21,
+  "longitude": 79.83
+ },
+ "Fish market-Peliyagoda": {
+  "province": "Western",
+  "district": "Gampaha",
+  "latitude": 6.97,
+  "longitude": 79.89
+ },
+ "Galenbindunuwewa": {
+  "province": "North Central",
+  "district": "Anuradhapura",
+  "latitude": 8.29,
+  "longitude": 80.72
+ },
+ "Galle": {
+  "province": "Southern",
+  "district": "Galle",
+  "latitude": 6.04,
+  "longitude": 80.22
+ },
+ "Gampaha": {
+  "province": "Western",
+  "district": "Gampaha",
+  "latitude": 7.08,
+  "longitude": 79.98
+ },
+ "Hambantota": {
+  "province": "Southern",
+  "district": "Hambantota",
+  "latitude": 6.14,
+  "longitude": 81.08
+ },
+ "Hanguranketha": {
+  "province": "Central",
+  "district": "Nuwara Eliya",
+  "latitude": 7.18,
+  "longitude": 80.78
+ },
+ "Jaffna": {
+  "province": "Northern",
+  "district": "Jaffna",
+  "latitude": 9.66,
+  "longitude": 80.01
+ },
+ "Kalutara": {
+  "province": "Western",
+  "district": "Kalutara",
+  "latitude": 6.59,
+  "longitude": 79.96
+ },
+ "Kandy": {
+  "province": "Central",
+  "district": "Kandy",
+  "latitude": 7.29,
+  "longitude": 80.59
+ },
+ "Kegalle": {
+  "province": "Sabaragamuwa",
+  "district": "Kegalle",
+  "latitude": 7.25,
+  "longitude": 80.34
+ },
+ "Keppetipola (DEC}": {
+  "province": "Uva",
+  "district": "Badulla",
+  "latitude": 6.91,
+  "longitude": 80.91
+ },
+ "Kilinochchi": {
+  "province": "Northern",
+  "district": "Kilinochchi",
+  "latitude": 9.4,
+  "longitude": 80.4
+ },
+ "Kurunegala": {
+  "province": "North Western",
+  "district": "Kurunegala",
+  "latitude": 7.48,
+  "longitude": 80.32
+ },
+ "Mannar": {
+  "province": "Northern",
+  "district": "Mannar",
+  "latitude": 8.98,
+  "longitude": 79.9
+ },
+ "Matale": {
+  "province": "Central",
+  "district": "Matale",
+  "latitude": 7.47,
+  "longitude": 80.62
+ },
+ "Matara": {
+  "province": "Southern",
+  "district": "Matara",
+  "latitude": 5.95,
+  "longitude": 80.52
+ },
+ "Meegoda(DEC)": {
+  "province": "Western",
+  "district": "Colombo",
+  "latitude": 6.84,
+  "longitude": 80.05
+ },
+ "Monaragala": {
+  "province": "Uva",
+  "district": "Moneragala",
+  "latitude": 6.87,
+  "longitude": 81.23
+ },
+ "Mulaitivu": {
+  "province": "Northern",
+  "district": "Mullattivu",
+  "latitude": 9.27,
+  "longitude": 80.81
+ },
+ "Mullativu": {
+  "province": "Northern",
+  "district": "Mullattivu",
+  "latitude": 9.32,
+  "longitude": 80.7
+ },
+ "Nikaweratiya": {
+  "province": "North Western",
+  "district": "Kurunegala",
+  "latitude": 7.75,
+  "longitude": 80.12
+ },
+ "Nuwara Eliya": {
+  "province": "Central",
+  "district": "Nuwara Eliya",
+  "latitude": 6.95,
+  "longitude": 80.75
+ },
+ "Polonnaruwa": {
+  "province": "North Central",
+  "district": "Polonnaruwa",
+  "latitude": 7.93,
+  "longitude": 81.01
+ },
+ "Puttalam": {
+  "province": "North Western",
+  "district": "Puttalam",
+  "latitude": 8.04,
+  "longitude": 79.84
+ },
+ "Rathnapura": {
+  "province": "Sabaragamuwa",
+  "district": "Ratnapura",
+  "latitude": 6.72,
+  "longitude": 80.34
+ },
+ "Thambuttegama": {
+  "province": "North Central",
+  "district": "Anuradhapura",
+  "latitude": 8.16,
+  "longitude": 80.3
+ },
+ "Tissamaharama": {
+  "province": "Southern",
+  "district": "Hambantota",
+  "latitude": 6.28,
+  "longitude": 81.29
+ },
+ "Trincomalee": {
+  "province": "Eastern",
+  "district": "Trincomalee",
+  "latitude": 8.57,
+  "longitude": 81.23
+ },
+ "Vavuniya": {
+  "province": "Northern",
+  "district": "Vavuniya",
+  "latitude": 8.75,
+  "longitude": 80.5
+ }
+}

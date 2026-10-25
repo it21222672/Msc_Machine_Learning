@@ -1,0 +1,6 @@
+Model,Val_AUC,Val_PR_AUC,Test_AUC,Test_PR_AUC,Threshold,Test_Precision,Test_Recall,Test_F1,Train_seconds
+LightGBM,0.8,0.464,0.692,0.282,0.184,0.274,0.608,0.378,12.492
+XGBoost,0.794,0.444,0.691,0.287,0.18,0.265,0.564,0.36,14.405
+Random Forest,0.778,0.41,0.672,0.263,0.201,0.253,0.622,0.36,27.04
+CatBoost,0.776,0.416,0.676,0.282,0.14,0.254,0.578,0.353,18.197
+Baseline: item spike rate,0.711,0.328,0.664,0.248,0.327,0.28,0.518,0.363,0.0

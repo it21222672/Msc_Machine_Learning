@@ -1,0 +1,13 @@
+{
+  "model": "LightGBM",
+  "threshold": 0.1842,
+  "spike_definition": "price rises 10% or more next month",
+  "val_AUC": 0.8,
+  "test_AUC": 0.692,
+  "test_PR_AUC": 0.282,
+  "test_precision": 0.274,
+  "test_recall": 0.608,
+  "spike_rate_test": 0.171,
+  "shap_unit": "log-odds",
+  "trained_on": "prices up to 2025-09"
+}

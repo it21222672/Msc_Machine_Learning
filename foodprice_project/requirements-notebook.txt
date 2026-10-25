@@ -1,0 +1,5 @@
+# Extra packages only needed to re-run the notebook (train and compare the four models).
+# Install with:  pip install -r requirements.txt -r requirements-notebook.txt
+xgboost>=2.0
+catboost>=1.2
+jupyter
